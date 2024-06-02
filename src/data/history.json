@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Internship in FSD",
+    "organisation": "Entri",
+    "startDate": "Oct,2022",
+    "endDate": "Present",
+    "experiences": ["Ilinois Tech certification", "MERN Fullstackdevelopment"],
+    "imageSrc": "history/Entri.png"
+  },
+  {
+    "role": "Wintel System Admin",
+    "organisation": "FIS Global",
+    "startDate": "March, 2021",
+    "endDate": "March, 2023",
+    "experiences": ["Troubleshooting Windows servers ", "Carried out monthly patching"],
+    "imageSrc": "history/FIS.png"
+  }
+ 
+]

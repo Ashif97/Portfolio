@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Project 1",
+    "imageSrc": "projects/movie.png",
+    "description": "Currently working on a website to review and rate movies",
+    "skills": ["React","express","mongoDB"],
+    "demo": "To Be Updated Soon",
+    "source": "To Be Updated Soon"
+  },
+  {
+    "title": "Project 2",
+    "imageSrc": "projects/Portfolio.png",
+    "description": "Created a personal portfolio.",
+    "skills": ["React"],
+    "demo": "To Be Updated Soon",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project 3",
+    "imageSrc": "projects/Kerala.png",
+    "description": "Developed a website that explores tourist attractions of Kerala.",
+    "skills": ["HTML", "CSS", "BootStrap"],
+    "demo": "https://ashif97.github.io/KeralaTourism/index.html",
+    "source": "https://github.com/Ashif97/KeralaTourism"
+  }
+  
+]
