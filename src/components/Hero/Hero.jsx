@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a MERN full-stack developer in training, with 2 years of experience working in IT.
         </p>
-        <a href="https://drive.google.com/file/d/11n2OrPKBtkMXFzcrzOAFHyKWzc8ldH4m/view" download className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1652dd1MRw2SoBPnxeqRmTwiaPaT663X8/view" download className={styles.contactBtn}>
           My Resume
         </a>
       </div>

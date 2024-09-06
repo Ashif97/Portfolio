@@ -2,10 +2,10 @@
   {
     "title": "Project 1",
     "imageSrc": "projects/movie.png",
-    "description": "Currently working on a website to review and rate movies",
+    "description": "Developed a website that allows movie buffs to sign up, rate and add reviews to movies.",
     "skills": ["React","express","mongoDB"],
-    "demo": "To Be Updated Soon",
-    "source": "To Be Updated Soon"
+    "demo": "https://cinecritique-one.vercel.app/",
+    "source": "https://github.com/Ashif97/Cinecritique"
   },
   {
     "title": "Project 2",
