@@ -1,7 +1,7 @@
 [
   {
     "title": "Project 1",
-    "imageSrc": "projects/movie.png",
+    "imageSrc": "projects/moviereview.png",
     "description": "Developed a website that allows movie buffs to sign up, rate and add reviews to movies.",
     "skills": ["React","express","mongoDB"],
     "demo": "https://cinecritique-one.vercel.app/",
